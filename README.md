@@ -39,7 +39,7 @@ Tools & Platforms
 ---
 
 🚀 Portfolio Projects
-- 🌐 [My Portfolio Website](https://github.com/PaluruSubbaNarasaiah/myprortfolio.git)
+- 🌐 [My Portfolio Website](https://palurusubbanarasaiah.github.io/my_portfolio/)
 - 📁 More projects will be added soon...
 
 ---
